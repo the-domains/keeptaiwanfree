@@ -1,0 +1,28 @@
+name: KeepTaiwanFree
+favicon: null
+layout_spectrum: 0.5039442267734557
+typography_spectrum: 0.5083376637194306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8783285042736679
+  lightness: 0.80033367453143
+  saturation: 0.5559548961464316
+  rhythmicContrast: 0.17021555942483246
+purpose: []
