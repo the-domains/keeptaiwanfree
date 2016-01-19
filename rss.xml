@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KeepTaiwanFree]]></title>
-        <description><![CDATA[KeepTaiwanFree]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Keep Taiwan Free]]></title>
+        <description><![CDATA[Keep Taiwan Free]]></description>
+        <link>https://thegrid.ai/keeptaiwanfree/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 04:48:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 04:50:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keeptaiwanfree/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d4d3b10-2682-4c44-abae-d2d7c5974e73.jpg">]]></description>
-            <link>undefined02216cd0-7abd-47d7-b28b-926ecdbc3aa9/index.html</link>
+            <link>https://thegrid.ai/keeptaiwanfree/02216cd0-7abd-47d7-b28b-926ecdbc3aa9/index.html</link>
             <guid isPermaLink="false">02216cd0-7abd-47d7-b28b-926ecdbc3aa9</guid>
-            <pubDate>Tue, 19 Jan 2016 04:48:40 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 04:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
